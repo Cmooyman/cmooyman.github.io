@@ -10,11 +10,11 @@ body, #slider, .wrap, .slide-content {
 h1{
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 60px;
-	color: white;
+	color: black;
 	margin: 0;
 	padding: 0;
 	text-align: center;
-	background-color: #898889;
+	background-color: white;
 
 }
 .wrap{
